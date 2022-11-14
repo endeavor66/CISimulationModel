@@ -17,6 +17,6 @@ Next, how to run the simulation model:
 
 + Step 1: Open (or create a new file if it does not exist) a simulation experiment configuration file, e.g. `People_PCI_A: Main` (Apply 5 real predictors respectively in project A)
 + Step 2: Click `excelFile` to configure the simulation result output file (**it must be an empty excel file**)
-+ Step 3: Click ![1668412331036](C:\Users\endeavor\AppData\Roaming\Typora\typora-user-images\1668412331036.png)to run the model
++ Step 3: Click ![1668412331036](https://pic.imgdb.cn/item/6371fb6f16f2c2beb17b3685.jpg)to run the model
 
 ![1668412459924](https://pic.imgdb.cn/item/6371f86516f2c2beb1773f35.png)![1668412510162](https://pic.imgdb.cn/item/6371f88716f2c2beb17769b8.png)
